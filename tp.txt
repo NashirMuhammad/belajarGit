@@ -1,0 +1,14 @@
+	          kebutuhan data pencucian mobil
+1. Data mobil (jenis mobil, ukuran mobil, plat nomor(buat mengurangi kriminalitas))
+2. Barang (id barang, nama barang, harga barang, stok barang)
+3. Karyawan  (id karyawan, nama karyawan, nomor hp karyawan, gaji karyawan)
+4. Transaksi (id transaksi, jenis transaksi, tanggal transaksi, barang yang digunakan, plat nomor mobil, id karyawan)
+5. struktur aplikasi (login, menu, simpan data, muat data, edit data, hapus data, urutkan data)  
+
+- Struktur Aplikasi nya
+- Data Barang
+- Data Mobil
+- Data Karyawan
+- Data Transaksi
+
+menggunakan file access

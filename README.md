@@ -1,2 +1,0 @@
-# belajarGit
-kuy belajar github
